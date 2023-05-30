@@ -1,2 +1,2 @@
 # Tic-Tac-Game
-Plays the game of tic tac toe against a human opponent
+Plays the game of tic tac toe against a human opponent. Within this Tic Tac Toe game the user's opponent is the computer. The computer should select the move that gives it the best chance of winning this turn. The computer should select a move if it gives the human the opportunity to win the following turn. If not, the computer should select the best vacant square for its next move. The centre is the ideal square. The corners are the next-best squares. The remaining squares are the second-best ones
